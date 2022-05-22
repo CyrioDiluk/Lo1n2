@@ -1,0 +1,85 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+	text-align: center;
+	padding: 40px
+}
+
+.link-header {
+	color: black;
+	background-color: lightgreen;
+
+	font-size: 50px;
+
+	padding: 25px;
+
+}
+
+.link-nav {
+    color: black;
+
+    display: flex;
+	justify-content: center;
+
+	background-color: white; 
+
+	font-size: 25px;
+    
+    background-color: lightgreen;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    font-weight: normal;
+    border-bottom: 2px solid navy;
+    padding-bottom: 5px;
+    width: 1500px;
+    background-color: lightgreen;
+}
+
+p {
+   color: black;
+
+   font-size: 30px;
+}
+
+.pizza {
+    width: 150px;
+    position: relative;
+    bottom: 50px;
+    height: 50px;
+    border: 4px solid black;
+}
+
+body {
+	background-color: lightgreen;
+}
+
+.posts {
+    display: flex;
+    justify-content: space-around;
+    width: 1100px;
+}
+
+article {
+    font-size: 20px;
+    padding: 20px;
+    width: 250px;
+    margin: 20px;
+    border: 4px solid black;
+    border-radius: 15px;
+    text-align: center;
+    height: 150px;
+    background-color:green;
+}
+
+.pizza2 {
+	font-size: 30px;
+	padding: 10px;
+	margin: 10px;
+	color: black;
+}
