@@ -37,7 +37,7 @@ h1 {
     font-weight: normal;
     border-bottom: 2px solid navy;
     padding-bottom: 5px;
-    width: 100%;
+    width: 1500px;
     background-color: lightgreen;
 }
 
@@ -82,4 +82,9 @@ article {
 	padding: 10px;
 	margin: 10px;
 	color: black;
+}
+
+.vk {
+    font-size:30px;
+    color: black;
 }
