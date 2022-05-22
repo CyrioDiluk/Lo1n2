@@ -60,8 +60,7 @@ body {
 }
 
 .posts {
-    display: flex;
-    justify-content: space-around;
+    text-aling:center;
     width: 1100px;
 }
 
